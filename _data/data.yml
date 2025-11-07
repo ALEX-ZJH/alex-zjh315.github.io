@@ -15,17 +15,16 @@ sidebar:
   # Sidebar links
   email: 15062356398@163.com
   phone: +86 15062356398
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
+  #timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Taiwan, China
+  website: https://alex-zjh.github.io # Include the full website URL, including "http://" or "https://".
+  linkedin: CHUNHAO CHANG
+
   github: ALEX-ZJH
-  telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky:  # Specify your full Bluesky handle
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,23 +36,23 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Chinese
       level: Native
 
-    - idiom: French
-      level: Professional
+    - idiom: English
+      level: Ordinary
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: Cantonese
+      level: Amateur
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Scuba diving
       link:
 
 
-    - item: Snowboarding
+    - item: Skiing
       link:
 
 
